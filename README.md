@@ -6,12 +6,10 @@
 
 <h2>อาจารย์ที่ปรึกษา <img src="https://i.ibb.co/gwDXzQC/gamer.png"></h2>
 
-รหัสนักศึกษา  | ชื่อ-นามสกุล  |  Github |
------ | ----- | ----- |
-62070043 | นางสาวชนิกานต์ ตันศิลป์ | [aynipus](https://github.com/aynipus) |
-62070093 | นายธิติวุธ สุขอารมย์ | [Euro513](https://github.com/Euro513) |
-62070095 | นายธีรภัทร อักษรสารสิทธิ์ | [pateerapat](https://github.com/pateerapat) |
-62070222 | นายอัครพล หวังพิทักษ์ | [Akaraphon-Wangpitak](https://github.com/Akaraphon-Wangpitak) |
+ชื่อ-นามสกุล  |
+----- |
+รศ.ดร. กิติ์สุชาต พสุภา |
+รศ.ดร. ปานวิทย์ ธุวะนุติ |
 
 
 <h2>ผู้พัฒนา <img src="https://i.ibb.co/gwDXzQC/gamer.png"></h2>
