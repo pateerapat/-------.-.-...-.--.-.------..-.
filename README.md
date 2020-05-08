@@ -7,7 +7,7 @@
 <h2>อุปกรณ์ที่ใช้ </h2>
 <p></p>
 
-<h2>สื่งที่คาดว่าจะได้รับ <img src="https://i.ibb.co/dKY5yXw/browser.png"></h2>
+<h2>สื่งที่คาดว่าจะได้รับ </h2>
 <p></p>
 
 <h2>อาจารย์ที่ปรึกษา <img src="https://i.ibb.co/gwDXzQC/gamer.png"></h2>
@@ -22,7 +22,7 @@
 
 รหัสนักศึกษา  | ชื่อ-นามสกุล  |  Github |
 ----- | ----- | ----- |
-62070043 | นางสาวชนิกานต์ ตันศิลป์ | [aynipus](https://github.com/aynipus) |
+62070043 | นางสาวชนิกานต์ ตันศิลป์ | [lookpear-72](https://github.com/lookpear-72) |
 62070093 | นายธิติวุธ สุขอารมย์ | [Euro513](https://github.com/Euro513) |
 62070095 | นายธีรภัทร อักษรสารสิทธิ์ | [pateerapat](https://github.com/pateerapat) |
 62070222 | นายอัครพล หวังพิทักษ์ | [Akaraphon-Wangpitak](https://github.com/Akaraphon-Wangpitak) |
