@@ -8,7 +8,7 @@
 <li>Breadboard</li>
 <li>Node MCU ESP8266</li>
 <li>สายไฟ ผู้-ผู้ และ สายไฟ ผู้-เมีย</li>
-<li>Buzzer</li>
+<li>Passive Buzzer</li>
 
 <h2>สื่งที่คาดว่าจะได้รับ </h2>
 <li>ได้เรียนรู้ไมโครคอนโทรลเลอร์มากขึ้น</li>
